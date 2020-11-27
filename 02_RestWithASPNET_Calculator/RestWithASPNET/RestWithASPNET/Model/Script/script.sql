@@ -6,3 +6,8 @@ CREATE TABLE IF NOT EXISTS `person` (
   `last_name` varchar(80) NOT NULL,
   PRIMARY KEY (`id`)
 ) 
+
+
+240.75 
+24 mois
+14%
